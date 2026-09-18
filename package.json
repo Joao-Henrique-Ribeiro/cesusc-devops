@@ -1,0 +1,27 @@
+{
+  "name": "cesusc-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao-Henrique-Ribeiro/cesusc-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Joao-Henrique-Ribeiro/cesusc-devops/issues"
+  },
+  "homepage": "https://github.com/Joao-Henrique-Ribeiro/cesusc-devops#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^30.5.1"
+  }
+}
