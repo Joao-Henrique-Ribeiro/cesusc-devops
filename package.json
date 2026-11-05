@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
-    "chromedriver": "^154.0.0",
+    "chromedriver": "^148.0.4",
     "eslint": "^10.11.0",
     "globals": "^17.12.0",
     "jest": "^30.5.1",
