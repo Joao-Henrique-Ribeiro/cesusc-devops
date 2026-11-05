@@ -1,0 +1,33 @@
+{
+  "name": "cesusc-devops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/*.js",
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao-Henrique-Ribeiro/cesusc-devops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Joao-Henrique-Ribeiro/cesusc-devops/issues"
+  },
+  "homepage": "https://github.com/Joao-Henrique-Ribeiro/cesusc-devops#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "chromedriver": "^154.0.0",
+    "eslint": "^10.11.0",
+    "globals": "^17.12.0",
+    "jest": "^30.5.1",
+    "selenium-webdriver": "^4.49.0"
+  }
+}
