@@ -9,6 +9,8 @@ app.get('/', (req, res) =>{
 })
 
 
-app.listen(port, () => {
+const server = app.listen(port, () => {
     console.log('Exemplo de aplicação rodando na porta:' + port)
-})
+});
+
+module.exports = server;
